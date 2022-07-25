@@ -8,7 +8,7 @@
 
 ![name](https://img.shields.io/badge/Kaushal--Mehta-MCA--last--year-lightgrey)
 
-## Project 10 [Live Link](#)
+## Project 10 [Live Link](https://live-proj-10.netlify.app)
 
 -   Skills Gained in this project
     -   Learned to use **background-image** with **lienar-gradient**.
